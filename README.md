@@ -1,3 +1,20 @@
+# Argon Cash
+## What is Argon Cash?
+Argon Cash is a Bitcoin fork with a few minor changes. Argon2 includes:
+* Implementation of the [Argon2 Hashing Algorithm](https://github.com/P-H-C/phc-winner-argon2)
+* 8 MB block size
+* Blocks are compressed using LZ77
+## Development
+I only made this fork so I could try and learn the Bitcoin source. This is not a serious coin.
+
+
+
+
+
+
+<br><br>
+And now, the Bitcoin readme:
+=====================================
 Bitcoin Core integration/staging tree
 =====================================
 
